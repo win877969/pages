@@ -504,7 +504,7 @@ function homePageHTML() {
 </b>
 </pre> 
 
-<<p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
+<p class="noted"> Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
 
 
 
