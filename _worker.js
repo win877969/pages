@@ -54,7 +54,7 @@ function homePageHTML() {
 
             body {
                 font-family: 'Helvetica Neue', Arial, sans-serif;
-                background-color: #ebffc0;
+                background-color: #1d1d1d;
                 color: #ffffff;
                 margin: 0;
                 padding: 20px;
@@ -74,7 +74,7 @@ function homePageHTML() {
                 padding: 30px;
                 width: 100%;
                 max-width: 600px;
-                border: 1px solid #121212;
+                border: 1px solid #1d1d1d;
                 position: relative;
                 /* Untuk positioning watermark */
             }
