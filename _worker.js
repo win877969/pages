@@ -513,7 +513,7 @@ vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219
 <div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW</DIV> <div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE</DIV> <div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" >The 
 Text
 The 
-Next Line<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" >The 
+Next Line</DIV> <textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" >The 
 Text
 The 
 Next 
