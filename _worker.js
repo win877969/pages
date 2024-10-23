@@ -498,7 +498,7 @@ function homePageHTML() {
 » Port NTLS   : 80
 » Security    : auto
 » Network     : (WS)
-» Path        : %2Fvl%3D35.219.15.90
+» Path        : /vl=35.219.15.90
 </b>
 </pre> 
 
