@@ -489,7 +489,7 @@ function homePageHTML() {
             <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" alt="VLESS logo" loading="lazy"></div>
                             
             <pre>
-====================================										<b>
+===================================										<b>
 » Domain      : ns1.bmkg.xyz
 » ISP         : BIZNET
 » Country     : Indonesia
@@ -500,12 +500,12 @@ function homePageHTML() {
 » Security    : auto
 » Network     : (WS)
 » Path        : /vl=35.219.15.90
-====================================										<b>
+===================================										<b>
 </b>
 </pre> 
 
-<pre> <p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
-</pre> 
+<<p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
+
 
 
 <pre><b>DAFTAR WILCARD: <button class="button2"><div ID="Showwild" VALUE="Click to Showwild" ONCLICK=" document.getElementById('Showwild').style.display='none'; document.getElementById('Hidewild').style.display='block'; document.getElementById('SectionNamewild').style.display='block'" >SHOW WILDCARD</DIV><div ID="Hidewild" VALUE="Click to Hidewild" ONCLICK=" document.getElementById('Showwild').style.display='block'; document.getElementById('Hidewild').style.display='none'; document.getElementById('SectionNamewild').style.display='none'" hidden>HIDE WILDCARD</DIV></button><div ID="SectionNamewild" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">» ava.game.naver.com.ns1.bmkg.xyz
