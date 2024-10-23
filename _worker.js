@@ -36,7 +36,7 @@ function homePageHTML() {
         <!-- Open Graph Meta Tags untuk SEO Media Sosial -->
         <meta property="og:title" content="Akun Vless Gratis - Akun Vless Cloudflare">
         <meta property="og:description" content="Anggavless, Vless Gratis, Free Vless, Vless CF, Trojan CF, Cloudflare.">
-        <meta property="og:image" content="https://raw.githubusercontent.com/angga03k/papipu/main/img/img-2.png">
+        <meta property="og:image" content="https://raw.githubusercontent.com/win877969/NS1/main/img/icon.png">
         <!-- Ganti dengan URL gambar yang sesuai -->
         <meta property="og:url" content="https://raw.githubusercontent.com/angga03k/papipu/main/img/gsmbar.img.jpg">
         <meta property="og:type" content="website">
@@ -44,9 +44,9 @@ function homePageHTML() {
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="Akun Vless Gratis - Akun Vless Cloudflare">
         <meta name="twitter:description" content="Anggavless, Vless Gratis, Free Vless, Vless CF, Trojan CF, Cloudflare.">
-        <meta name="twitter:image" content="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/1729486576378.png">
+        <meta name="twitter:image" content="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png">
         <!-- Ganti dengan URL gambar yang sesuai -->
-        <link href="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/VLESS_20241021_223252_0000.png" rel="icon" type="image/png">
+        <link href="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" rel="icon" type="image/png">
         <style>
             html {
                 scroll-behavior: smooth;
@@ -486,14 +486,14 @@ function homePageHTML() {
     <body>
         <div class="container">
 	
-            <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/VLESS_20241021_223252_0000.png" alt="VLESS logo" loading="lazy"></div>
+            <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" alt="VLESS logo" loading="lazy"></div>
                             
             <pre>										<b>
-» Domain      : cf-prem.bmkg.xyz
-» ISP         : Telekomunikasi Indonesia
+» Domain      : ns1.bmkg.xyz
+» ISP         : BIZNET
 » Country     : Indonesia
 » City        : Jakarta
-» User ID     : <span class="user-id-wrapper">d2eed70a-4102-42b0-8b40-279e6d901a02</span>
+» UUID     : <span class="user-id-wrapper">d2eed70a-4102-42b0-8b40-279e6d901a02</span>
 » Port TLS    : 443
 » Port NTLS   : 80
 » Security    : auto
@@ -502,6 +502,8 @@ function homePageHTML() {
 </b>
 </pre> 
 
+<pre> <p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
+</pre> 
 
 
 <pre><b>DAFTAR WILCARD: <button class="button2"><div ID="Showwild" VALUE="Click to Showwild" ONCLICK=" document.getElementById('Showwild').style.display='none'; document.getElementById('Hidewild').style.display='block'; document.getElementById('SectionNamewild').style.display='block'" >SHOW WILDCARD</DIV><div ID="Hidewild" VALUE="Click to Hidewild" ONCLICK=" document.getElementById('Showwild').style.display='block'; document.getElementById('Hidewild').style.display='none'; document.getElementById('SectionNamewild').style.display='none'" hidden>HIDE WILDCARD</DIV></button><div ID="SectionNamewild" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">» ava.game.naver.com.ns1.bmkg.xyz
@@ -516,8 +518,8 @@ function homePageHTML() {
 » io.ruangguru.com.ns1.bmkg.xyz</b></DIV></pre>
 
 
-<pre><b>V2RAY TLS 433 : <button class="button2"><div ID="Show1" VALUE="Click to show1" ONCLICK=" document.getElementById('Show1').style.display='none'; document.getElementById('Hide1').style.display='block'; document.getElementById('SectionName1').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide1" VALUE="Click to hide1" ONCLICK=" document.getElementById('Show1').style.display='block'; document.getElementById('Hide1').style.display='none'; document.getElementById('SectionName1').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName1" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
-<pre><b>V2RAY NTLS 80 : <button class="button2"><div ID="Show3" VALUE="Click to Show3" ONCLICK=" document.getElementById('Show3').style.display='none'; document.getElementById('Hide3').style.display='block'; document.getElementById('SectionName3').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide3" VALUE="Click to Hide3" ONCLICK=" document.getElementById('Show3').style.display='block'; document.getElementById('Hide3').style.display='none'; document.getElementById('SectionName3').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName3" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
+<pre><b>V2RAY TLS 433 : <button class="button2"><div ID="Show1" VALUE="Click to show1" ONCLICK=" document.getElementById('Show1').style.display='none'; document.getElementById('Hide1').style.display='block'; document.getElementById('SectionName1').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide1" VALUE="Click to hide1" ONCLICK=" document.getElementById('Show1').style.display='block'; document.getElementById('Hide1').style.display='none'; document.getElementById('SectionName1').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName1" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ns1.bmkg.xyz:443?encryption=none&security=tls&sni=ns1.bmkg.xyz&fp=randomized&type=ws&host=ns1.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ns1.bmkg.xyz:443?encryption=none&security=tls&sni=ns1.bmkg.xyz&fp=randomized&type=ws&host=ns1.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
+<pre><b>V2RAY NTLS 80 : <button class="button2"><div ID="Show3" VALUE="Click to Show3" ONCLICK=" document.getElementById('Show3').style.display='none'; document.getElementById('Hide3').style.display='block'; document.getElementById('SectionName3').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide3" VALUE="Click to Hide3" ONCLICK=" document.getElementById('Show3').style.display='block'; document.getElementById('Hide3').style.display='none'; document.getElementById('SectionName3').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName3" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ns1.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=ns1.bmkg.xyz&fp=randomized&type=ws&sni=ns1.bmkg.xyz#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ns1.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=ns1.bmkg.xyz&fp=randomized&type=ws&sni=ns1.bmkg.xyz#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
 
 <pre><b>CLASH TLS 433 : <button class="button2"><div ID="Show2" VALUE="Click to show2" ONCLICK=" document.getElementById('Show2').style.display='none'; document.getElementById('Hide2').style.display='block'; document.getElementById('SectionName2').style.display='block'" >SHOW CLASH</DIV><div ID="Hide2" VALUE="Click to hide2" ONCLICK=" document.getElementById('Show2').style.display='block'; document.getElementById('Hide2').style.display='none'; document.getElementById('SectionName2').style.display='none'" hidden>HIDE CLASH</DIV></button><div ID="SectionName2" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">proxies :
 - name: Alibaba (US) Technology Co., Ltd. (HK)
@@ -600,7 +602,7 @@ function myFunction() {
   alert("Copied Sucses");
 }
 </script>
-            <p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
+            
             <div class="watermark"> Develoved by <a href="https://t.me/seaker877" target="_blank">X-VPN</a>
             </div>
         </div>
@@ -1347,7 +1349,7 @@ ${วเลสSec}
 	// Prepare header string
 	const header = `
 <b style='font-size: 15px;'>BEDEBAH TUNNEL</b>
-<a href='https://github.com/win877969/cf-ws' target='_blank'>BEDEBAH - https://github.com/win877969/cf-ws</a>
+<a href='https://github.com/win877969/ns1' target='_blank'>BEDEBAH - https://github.com/win877969/ns1</a>
 
 >>CLASH<<;
 
@@ -1378,7 +1380,7 @@ ${วเลสSec}
 
 	<div class="container">
 		<h1>BEDEBAH BMKG.XYZ</h1>
-		<p>Free Vless LifeTime By: cf-prem.bmkg.xyz</p>
+		<p>Free Vless LifeTime By: bmkg.xyz</p>
 		
 		<!-- Theme and Language Switcher -->
 		<div class="theme-switcher">
@@ -1441,5 +1443,5 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'cf-prem.bmkg.xyz',              
+	'bmkg.xyz',              
 	];
