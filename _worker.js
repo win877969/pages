@@ -494,7 +494,7 @@ function homePageHTML() {
 » ISP         : BIZNET
 » Country     : Indonesia
 » City        : Jakarta
-» UUID     : <textarea>d2eed70a-4102-42b0-8b40-279e6d901a02</textarea>
+» UUID        : d2eed70a-4102-42b0-8b40-279e6d901a02
 » Port TLS    : 443
 » Port NTLS   : 80
 » Security    : auto
