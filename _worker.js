@@ -202,7 +202,7 @@ function homePageHTML() {
             pre {
                 white-space: pre-wrap;
                 word-wrap: break-word;
-                background-color: #ffffff;
+                background-color: #3c3c3c;
                 border-radius: 8px;
                 padding: 15px;
                 color: #ffffff;
