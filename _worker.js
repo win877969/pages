@@ -510,15 +510,15 @@ vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219
 
 
 
-<div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW</DIV> <div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE</DIV> <div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" >The 
-Text
-The 
-Next Line</DIV> <textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" >The 
+<pre><b>V2RAY NTLS:80 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW</DIV> <div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE</DIV> </button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" >The <br>
+Text<br>
+The <br>
+Next Line</DIV> <textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>The 
 Text
 The 
 Next 
 Line </textarea>
-<div onclick="myFunction()">Copy text</button></DIV>
+<div onclick="myFunction()">Copy text</button></DIV></pre>
 <script>
 function myFunction() {
   // Get the text field
@@ -532,56 +532,12 @@ function myFunction() {
   navigator.clipboard.writeText(copyText.value);
   
   // Alert the copied text
-  alert("Copied the text: " + copyText.value);
+  alert("Copied Sucses");
 }
 </script>
 
 
 
-
-
-<style>
-myDIV {
-  width: 100%;
-  padding: 50px 0;
-  text-align: left;
-  background-color: yellow;
-  margin-top: 20px;
-}
-</style>
-<pre><b>V2RAY NTLS:80 : <button onclick="myFunction1()">SHOW/HIDE</button>
-
-<div id="myDIV" hidden>
-vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</b><button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy NTLS:80 </button>
-</div></pre>
-
-
-<script>
-
-function myFunction() {
-  // Get the text field
-  var copyText = document.getElementById("myInput");
-
-  // Select the text field
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobile devices
-
-  // Copy the text inside the text field
-  navigator.clipboard.writeText(copyText.value);
-  
-  // Alert the copied text
-  alert("Copied");
-}
-
-function myFunction1() {
-  var x = document.getElementById();
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
 
 <pre><b>RUANGGURU:443 : 
 <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ruanfguru.com:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy TLS:443</button>  ||  <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy NTLS:80</button></b></pre>
