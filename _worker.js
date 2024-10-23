@@ -54,7 +54,7 @@ function homePageHTML() {
 
             body {
                 font-family: 'Helvetica Neue', Arial, sans-serif;
-                background-color: #121212;
+                background-color: #ebffc0;
                 color: #ffffff;
                 margin: 0;
                 padding: 20px;
