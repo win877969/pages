@@ -67,7 +67,7 @@ function homePageHTML() {
             }
 
             .container {
-                background-color: #1d1d1d;
+                background-color: #ffffff;
                 /* Warna gelap dengan nuansa lebih dalam */
                 border-radius: 10px;
                 box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
@@ -484,7 +484,7 @@ function homePageHTML() {
         </style>
     </head>
     
-        
+        <div class="container">
 	
             <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" alt="VLESS logo" loading="lazy"></div>
                             
