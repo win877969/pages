@@ -515,18 +515,9 @@ function homePageHTML() {
 » zaintest.vuclip.com.ns1.bmkg.xyz
 » io.ruangguru.com.ns1.bmkg.xyz</b></DIV></pre>
 
-<pre><b>V2RAY TLS:443 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy TLS:443</button>
-vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</b> </pre>
-<pre><b>V2RAY NTLS:80 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy NTLS:80 </button> 
-vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</b> </pre>
-
 
 <pre><b>V2RAY TLS 433 : <button class="button2"><div ID="Show1" VALUE="Click to show1" ONCLICK=" document.getElementById('Show1').style.display='none'; document.getElementById('Hide1').style.display='block'; document.getElementById('SectionName1').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide1" VALUE="Click to hide1" ONCLICK=" document.getElementById('Show1').style.display='block'; document.getElementById('Hide1').style.display='none'; document.getElementById('SectionName1').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName1" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
-
 <pre><b>V2RAY NTLS 80 : <button class="button2"><div ID="Show3" VALUE="Click to Show3" ONCLICK=" document.getElementById('Show3').style.display='none'; document.getElementById('Hide3').style.display='block'; document.getElementById('SectionName3').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide3" VALUE="Click to Hide3" ONCLICK=" document.getElementById('Show3').style.display='block'; document.getElementById('Hide3').style.display='none'; document.getElementById('SectionName3').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName3" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
-
-
-
 
 <pre><b>CLASH TLS 433 : <button class="button2"><div ID="Show2" VALUE="Click to show2" ONCLICK=" document.getElementById('Show2').style.display='none'; document.getElementById('Hide2').style.display='block'; document.getElementById('SectionName2').style.display='block'" >SHOW CLASH</DIV><div ID="Hide2" VALUE="Click to hide2" ONCLICK=" document.getElementById('Show2').style.display='block'; document.getElementById('Hide2').style.display='none'; document.getElementById('SectionName2').style.display='none'" hidden>HIDE CLASH</DIV></button><div ID="SectionName2" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">proxies :
 - name: Alibaba (US) Technology Co., Ltd. (HK)
@@ -592,8 +583,7 @@ vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35
     path: /vl=8.223.39.101
     headers:
       Host: aio.bexnxx.us.kg</textarea><button class="button2" onclick="myFunction()">Copy Clash</button></DIV></pre>
-      
-      
+          
 <script>
 function myFunction() {
   // Get the text field
@@ -610,13 +600,6 @@ function myFunction() {
   alert("Copied Sucses");
 }
 </script>
-
-
-
-
-<pre><b>RUANGGURU:443 : 
-<button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ruanfguru.com:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy TLS:443</button>  ||  <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy NTLS:80</button></b></pre>
-
             <p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
             <div class="watermark"> Develoved by <a href="https://t.me/seaker877" target="_blank">X-VPN</a>
             </div>
