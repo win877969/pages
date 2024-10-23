@@ -508,16 +508,137 @@ vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=non
 vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</b> </pre>
 
 
+<pre><b>V2RAY TLS 433 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy text</button></DIV></pre>
 
 
-<pre><b>V2RAY NTLS:80 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">The <br>
-Text<br>
-The <br>
-Next Line<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>The 
-Text
-The 
-Next 
-Line </textarea><button class="button2" onclick="myFunction()">Copy text</button></DIV></pre>
+<pre><b>CLASH TLS 433 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW CLASH</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE CLASH</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">proxies :
+- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 443
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>proxies :
+-- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 443
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg</textarea><button class="button2" onclick="myFunction()">Copy text</button></DIV></pre>
+<pre><b>CLASH TLS 433 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW CLASH</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE CLASH</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">proxies :
+- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 443
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>proxies :
+-- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 443
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
+
+
+<pre><b>CLASH TLS 433 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW CLASH</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE CLASH</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">proxies :
+- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 443
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>proxies :
+-- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 443
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg</textarea><button class="button2" onclick="myFunction()">Copy Clash</button></DIV></pre>
+<pre><b>CLASH NTLS 80 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW CLASH</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE CLASH</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">proxies :
+- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 80
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: false
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>proxies :
+-- name: Alibaba (US) Technology Co., Ltd. (HK)
+  server: aio.bexnxx.us.kg
+  port: 80
+  type: vless
+  uuid: ea0295b1-c9f3-4143-91f2-a6ebf6caf46e
+  cipher: auto
+  tls: false
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: aio.bexnxx.us.kg
+  ws-opts:
+    path: /vl=8.223.39.101
+    headers:
+      Host: aio.bexnxx.us.kg</textarea><button class="button2" onclick="myFunction()">Copy Clash</button></DIV></pre>
+      
+      
 <script>
 function myFunction() {
   // Get the text field
