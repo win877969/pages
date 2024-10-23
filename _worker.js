@@ -510,15 +510,14 @@ vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219
 
 
 
-<pre><b>V2RAY NTLS:80 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW</DIV> <div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE</DIV> </button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" >The <br>
+<pre><b>V2RAY NTLS:80 : <button class="button2"><div ID="Show" VALUE="Click to show" ONCLICK=" document.getElementById('Show').style.display='none'; document.getElementById('Hide').style.display='block'; document.getElementById('SectionName').style.display='block'" >SHOW</DIV><div ID="Hide" VALUE="Click to hide" ONCLICK=" document.getElementById('Show').style.display='block'; document.getElementById('Hide').style.display='none'; document.getElementById('SectionName').style.display='none'" hidden>HIDE</DIV></button><div ID="SectionName" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">The <br>
 Text<br>
 The <br>
-Next Line</DIV> <textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>The 
+Next Line<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>The 
 Text
 The 
 Next 
-Line </textarea>
-<div onclick="myFunction()">Copy text</button></DIV></pre>
+Line </textarea><button class="button2" onclick="myFunction()">Copy text</button></DIV></pre>
 <script>
 function myFunction() {
   // Get the text field
