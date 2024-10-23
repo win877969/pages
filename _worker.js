@@ -202,7 +202,7 @@ function homePageHTML() {
             pre {
                 white-space: pre-wrap;
                 word-wrap: break-word;
-                background-color: #2b2b2b;
+                background-color: #448998;
                 border-radius: 8px;
                 padding: 15px;
                 color: #ffffff;
@@ -488,7 +488,7 @@ function homePageHTML() {
 	
             <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" alt="VLESS logo" loading="lazy"></div>
                             
-            <pre><b><>
+            <pre><b>
 ======================================================================					
 » Domain      : ns1.bmkg.xyz
 » ISP         : BIZNET
@@ -500,7 +500,8 @@ function homePageHTML() {
 » Security    : auto
 » Network     : (WS)
 » Path        : /vl=35.219.15.90
-======================================================================</b>
+======================================================================
+</b>
 </pre> 
 
 <p class="noted"> Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
