@@ -498,19 +498,19 @@ function homePageHTML() {
 » Port NTLS   : 80
 » Security    : auto
 » Network     : (WS)
-» Path        : /vl=35.219.15.90
+» Path        : %2Fvl%3D35.219.15.90
 </b>
 </pre> 
 
-<pre><b>V2RAY TLS:443 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy TLS:443</button>
-vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia</b> </pre>
-<pre><b>V2RAY NTLS:80 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy NTLS:80 </button> 
-vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</b> </pre>
+<pre><b>V2RAY TLS:443 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy TLS:443</button>
+vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</b> </pre>
+<pre><b>V2RAY NTLS:80 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy NTLS:80 </button> 
+vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</b> </pre>
 
 
-<pre><b>V2RAY TLS 433 : <button class="button2"><div ID="Show1" VALUE="Click to show1" ONCLICK=" document.getElementById('Show1').style.display='none'; document.getElementById('Hide1').style.display='block'; document.getElementById('SectionName1').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide1" VALUE="Click to hide1" ONCLICK=" document.getElementById('Show1').style.display='block'; document.getElementById('Hide1').style.display='none'; document.getElementById('SectionName1').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName1" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
+<pre><b>V2RAY TLS 433 : <button class="button2"><div ID="Show1" VALUE="Click to show1" ONCLICK=" document.getElementById('Show1').style.display='none'; document.getElementById('Hide1').style.display='block'; document.getElementById('SectionName1').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide1" VALUE="Click to hide1" ONCLICK=" document.getElementById('Show1').style.display='block'; document.getElementById('Hide1').style.display='none'; document.getElementById('SectionName1').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName1" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
 
-<pre><b>V2RAY NTLS 80 : <button class="button2"><div ID="Show3" VALUE="Click to Show3" ONCLICK=" document.getElementById('Show3').style.display='none'; document.getElementById('Hide3').style.display='block'; document.getElementById('SectionName3').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide3" VALUE="Click to Hide3" ONCLICK=" document.getElementById('Show3').style.display='block'; document.getElementById('Hide3').style.display='none'; document.getElementById('SectionName3').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName3" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
+<pre><b>V2RAY NTLS 80 : <button class="button2"><div ID="Show3" VALUE="Click to Show3" ONCLICK=" document.getElementById('Show3').style.display='none'; document.getElementById('Hide3').style.display='block'; document.getElementById('SectionName3').style.display='block'" >SHOW V2RAY</DIV><div ID="Hide3" VALUE="Click to Hide3" ONCLICK=" document.getElementById('Show3').style.display='block'; document.getElementById('Hide3').style.display='none'; document.getElementById('SectionName3').style.display='none'" hidden>HIDE V2RAY</DIV></button><div ID="SectionName3" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia<textarea name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'" id="myInput" hidden>vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia</textarea><button class="button2" onclick="myFunction()">Copy V2raY</button></DIV></pre>
 
 
 
@@ -602,7 +602,7 @@ function myFunction() {
 
 
 <pre><b>RUANGGURU:443 : 
-<button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ruanfguru.com:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=/vl=35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy TLS:443</button>  ||  <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=/vl=35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy NTLS:80</button></b></pre>
+<button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@ruanfguru.com:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy TLS:443</button>  ||  <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i>Copy NTLS:80</button></b></pre>
 
             <p class="noted">Noted: Pastikan untuk memeriksa konfigurasi dengan teliti sebelum digunakan.</p>
             <div class="watermark"> Develoved by <a href="https://t.me/seaker877" target="_blank">X-VPN</a>
@@ -1324,7 +1324,7 @@ const ed = 'RUR0dW5uZWw=';
  * @returns {string}
  */
 function getวเลสConfig(userIDs, hostName) {
-	const commonUrlPart = `:443?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=/vl=35.219.15.90#${hostName}`;
+	const commonUrlPart = `:443?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2Fvl%3D35.219.15.90#${hostName}`;
 	const hashSeparator = "____________________________________________";
 
 	// Split the userIDs into an array
@@ -1413,8 +1413,8 @@ const เซ็ตพอร์ตHttps = new Set([443, 8443, 2053, 2096, 2087, 2
 
 function สร้างวเลสSub(ไอดีผู้ใช้_เส้นทาง, ชื่อโฮสต์) {
 	const อาร์เรย์ไอดีผู้ใช้ = ไอดีผู้ใช้_เส้นทาง.includes(',') ? ไอดีผู้ใช้_เส้นทาง.split(',') : [ไอดีผู้ใช้_เส้นทาง];
-	const ส่วนUrlทั่วไปHttp = `?encryption=none&security=none&fp=random&type=ws&host=${ชื่อโฮสต์}&path=/vl=35.219.15.90#`;
-	const ส่วนUrlทั่วไปHttps = `?encryption=none&security=tls&sni=${ชื่อโฮสต์}&fp=random&type=ws&host=${ชื่อโฮสต์}&path=/vl=35.219.15.90#`;
+	const ส่วนUrlทั่วไปHttp = `?encryption=none&security=none&fp=random&type=ws&host=${ชื่อโฮสต์}&path=%2Fvl%3D35.219.15.90#`;
+	const ส่วนUrlทั่วไปHttps = `?encryption=none&security=tls&sni=${ชื่อโฮสต์}&fp=random&type=ws&host=${ชื่อโฮสต์}&path=%2Fvl%3D35.219.15.90#`;
 
 	const ผลลัพธ์ = อาร์เรย์ไอดีผู้ใช้.flatMap((ไอดีผู้ใช้) => {
 		const การกำหนดค่าHttp = Array.from(เซ็ตพอร์ตHttp).flatMap((พอร์ต) => {
