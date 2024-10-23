@@ -483,7 +483,7 @@ function homePageHTML() {
         }
         </style>
     </head>
-    <body>
+    
         <div class="container">
 	
             <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" alt="VLESS logo" loading="lazy"></div>
@@ -618,7 +618,7 @@ function myFunction() {
                 });
             }
         </script>
-    </body>
+
 </html>
 
 
