@@ -488,13 +488,13 @@ function homePageHTML() {
 	
             <div class="card__top"><img src="https://raw.githubusercontent.com/win877969/NS1/refs/heads/main/img/icon.png" alt="VLESS logo" loading="lazy"></div>
                             
-            <pre><b>
+            <pre><b><>
 ======================================================================					
 » Domain      : ns1.bmkg.xyz
 » ISP         : BIZNET
 » Country     : Indonesia
 » City        : Jakarta
-» UUID     : <span class="user-id-wrapper">d2eed70a-4102-42b0-8b40-279e6d901a02</span>
+» UUID     : <textarea>d2eed70a-4102-42b0-8b40-279e6d901a02</textarea>
 » Port TLS    : 443
 » Port NTLS   : 80
 » Security    : auto
