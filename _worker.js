@@ -502,6 +502,19 @@ function homePageHTML() {
 </b>
 </pre> 
 
+
+
+<pre><b>DAFTAR WILCARD: <button class="button2"><div ID="Showwild" VALUE="Click to Showwild" ONCLICK=" document.getElementById('Showwild').style.display='none'; document.getElementById('Hidewild').style.display='block'; document.getElementById('SectionNamewild').style.display='block'" >SHOW WILDCARD</DIV><div ID="Hidewild" VALUE="Click to Hidewild" ONCLICK=" document.getElementById('Showwild').style.display='block'; document.getElementById('Hidewild').style.display='none'; document.getElementById('SectionNamewild').style.display='none'" hidden>HIDE WILDCARD</DIV></button><div ID="SectionNamewild" STYLE="display:none" name="m" rows="5" cols="50" on_click="this.value='Hello\nHow R U?'">» ava.game.naver.com.ns1.bmkg.xyz
+» graph.instagram.com.ns1.bmkg.xyz
+» quiz.int.vidio.com.ns1.bmkg.xyz
+» live.iflix.com.ns1.bmkg.xyz
+» support.zoom.us.ns1.bmkg.xyz
+» blog.webex.com.ns1.bmkg.xyz
+» investors.spotify.com.ns1.bmkg.xyz
+» cache.netflix.com.ns1.bmkg.xyz
+» zaintest.vuclip.com.ns1.bmkg.xyz
+» io.ruangguru.com.ns1.bmkg.xyz</b></DIV></pre>
+
 <pre><b>V2RAY TLS:443 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy TLS:443</button>
 vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:443?encryption=none&security=tls&sni=cf-prem.bmkg.xyz&fp=randomized&type=ws&host=cf-prem.bmkg.xyz&path=%2Fvl%3D35.219.15.90#Telekomunikasi+Indonesia</b> </pre>
 <pre><b>V2RAY NTLS:80 : <button class="button2" onclick='copyToClipboard("vless://d2eed70a-4102-42b0-8b40-279e6d901a02@cf-prem.bmkg.xyz:80?path=%2Fvl%3D35.219.15.90&security=none&encryption=none&host=cf-prem.bmkg.xyz&fp=randomized&type=ws&sni=cf-prem.bmkg.xyz#Telekomunikasi+Indonesia")'><i class="fa fa-clipboard"></i> Copy NTLS:80 </button> 
